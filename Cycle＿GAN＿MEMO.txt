@@ -3,5 +3,8 @@ Cycle GANの分からないところ
 ・残差ブロック（ResNet）
 
 
-・ストライド1/2のfractionally strided covolutions
+・ストライド1/2のfractionally strided covolutionsとは
 　→出力の次元を大きくするらしい。１×１の畳み込みとの違いは？？
+
+
+・正規化、Instance Normalizationとは

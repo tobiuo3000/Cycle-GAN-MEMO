@@ -8,3 +8,6 @@ Cycle GANの分からないところ
 
 
 ・正規化、Instance Normalizationとは
+
+
+・PatchGANsとは

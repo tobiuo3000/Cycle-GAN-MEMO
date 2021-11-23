@@ -20,3 +20,13 @@ Cycle GANの分からないところ
 
 ・import shutilとは
 　→高水準なファイル操作が可能になる。
+
+
+・TFRecord dataset
+　→
+
+
+・
+
+
+・
